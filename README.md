@@ -27,4 +27,4 @@ For any queries, please contact at <nphiysahe@hmail.com>.
 
 ## Deployed website
 
-[NPH](https://hiyashe06.github.io/Bootstrap-Portfolio/)
+[https://hiyashe06.github.io/Bootstrap-Portfolio/](https://hiyashe06.github.io/Bootstrap-Portfolio/)
